@@ -46,7 +46,7 @@ $(document).ready(function() {
   }
 
 
-/////CONVERT FUNTION
+/////CONVERT FUNCTION
   var convert = function(number, place) {
     var romanNumber = ''
 
@@ -74,5 +74,5 @@ $(document).ready(function() {
 /////////END OF BACK LOGIC
 
 
-  
+
 })//END
